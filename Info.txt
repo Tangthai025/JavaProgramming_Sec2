@@ -1,0 +1,5 @@
+Student_id : 2313110922
+Student Name : Tangthai
+Major : IT
+Level : 1
+Faculty : Information Technology
